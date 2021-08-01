@@ -1,0 +1,8 @@
+
+*install the following package
+pip3 install fpdf
+
+
+*run the code in the directory that has the pdf_converter.py
+
+python3 pdf_converter.py
